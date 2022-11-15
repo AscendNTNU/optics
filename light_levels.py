@@ -24,3 +24,5 @@ def exposure_value(N: float, t: float):
 
 print(exposure_value(2.8, 48))
 
+
+
